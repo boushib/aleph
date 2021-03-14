@@ -1,3 +1,3 @@
-$(function(){
-    $('.custom-select').alephSelect();
+$(function () {
+  $(".custom-select").alephSelect();
 });
